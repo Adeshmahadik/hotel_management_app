@@ -23,7 +23,6 @@ export default function RootLayout({
       {/* Replace inter.className with a valid className or import the appropriate styles */}
       <body className={poppins.className}>
         <main className='font-normal'>
-
         {children}
         </main>
         
